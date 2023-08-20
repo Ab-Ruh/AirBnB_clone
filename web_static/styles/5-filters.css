@@ -1,4 +1,31 @@
 .filters {
+<<<<<<< HEAD
+    display: flex;
+    height: 70px;
+    width: 100%;
+    border: 1px solid #DDDDDD;
+}
+
+.locations, .amenities {
+    flex: 1;
+    padding: 10px;
+    text-align: center;
+}
+
+.locations {
+    border-right: 1px solid #DDDDDD;
+}
+
+h3 {
+    font-weight: 600;
+}
+
+h4 {
+    font-weight: 400;
+    font-size: 14px;
+    margin-top: 10px;
+}
+=======
 	background color: white;
 	height: 70px;
 	width: 100%;
@@ -45,3 +72,4 @@ button:hover {
 	font-weight: 400;
 	font-size: 14px;
 }
+>>>>>>> ba4fad6f8262ee63c6e1375e968713bf9fe01edb
